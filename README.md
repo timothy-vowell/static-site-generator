@@ -1,2 +1,2 @@
-# static_site_generator
+# static-site-generator
 Boot.dev static site generator project
